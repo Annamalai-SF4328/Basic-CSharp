@@ -1,0 +1,15 @@
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\bin\Debug\net7.0\Switch10.exe
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\bin\Debug\net7.0\Switch10.deps.json
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\bin\Debug\net7.0\Switch10.runtimeconfig.json
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\bin\Debug\net7.0\Switch10.dll
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\bin\Debug\net7.0\Switch10.pdb
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\obj\Debug\net7.0\Switch10.csproj.AssemblyReference.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\obj\Debug\net7.0\Switch10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\obj\Debug\net7.0\Switch10.AssemblyInfoInputs.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\obj\Debug\net7.0\Switch10.AssemblyInfo.cs
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\obj\Debug\net7.0\Switch10.csproj.CoreCompileInputs.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\obj\Debug\net7.0\Switch10.dll
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\obj\Debug\net7.0\refint\Switch10.dll
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\obj\Debug\net7.0\Switch10.pdb
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\obj\Debug\net7.0\Switch10.genruntimeconfig.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Switch10\obj\Debug\net7.0\ref\Switch10.dll
